@@ -1,0 +1,8 @@
+{
+  "type": "car",
+  "brand": "Ford",
+  "modefl": "Fusion",
+  "year": 2021,
+  "doors": 4,
+  "passengers": 2
+}
