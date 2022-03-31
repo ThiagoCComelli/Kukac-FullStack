@@ -8,7 +8,9 @@ No diretorio do projeto, para instalar as dependencias:
 
 Para rodar localmente o projeto: `$ yarn start` ou `$ npm start`
 
-A aplicacao ira funcionar na porta 3000, sendo possivel acessar pelo dominio [http://localhost:3000]()
+A aplicacao ira funcionar na porta 3100, sendo possivel acessar pelo dominio [http://localhost:3100]()
+
+Servidor tambem esta operando e online pela Heroku, sendo acessivel pelo link [https://kukac-fullstack.herokuapp.com]()
 
 ### Iniciando os testes unitarios
 
