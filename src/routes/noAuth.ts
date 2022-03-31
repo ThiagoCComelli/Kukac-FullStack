@@ -18,7 +18,7 @@ noAuth.post("/newVehicle", (request, response) => {
   return setNewVehicleController.handle(request, response)
 })
 
-noAuth.get("/ceps", (request, response) => {
+noAuth.post("/ceps", (request, response) => {
   return getCEPsController.handle(request, response)
 })
 
